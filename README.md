@@ -2,7 +2,7 @@
 
 This is a simple project to explore functionalities of firebase
 
-## The functionalities used in this app are
+## The firebase functionalities used in this app are
 * Realtime Database
 * Firebase Auth
 * Firebase Storage
