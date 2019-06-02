@@ -6,3 +6,5 @@ This is a simple repository to explore functionalities of firebase
 * Realtime Database
 * Firebase Auth
 * Firebase Storage
+* Firebase Message
+* Remote Config
